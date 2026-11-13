@@ -44,7 +44,20 @@ An interactive Excel Dashboard for analyzing cosmetic business data.
 
 ⭐ Thanks for visiting my profile!
 
-<!--
+<
+## 🛠️ My Tech Stack
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taukeerk490-debug&show_icons=true&theme=tokyonight)
+!--
 **taukeerk490-debug/taukeerk490-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
